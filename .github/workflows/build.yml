@@ -7,7 +7,7 @@ on:
           required: true
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # future-proofs against Node deprecation
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
